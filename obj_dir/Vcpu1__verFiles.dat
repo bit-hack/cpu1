@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "--top-module cpu1 --compiler msvc -Isource --cc C:/repos/cpu1/source/cpu1.v"
+S      4788  1578615802 "C:/repos/cpu1/source/cpu1.v"
+S   5939892  1350972859 "C:\repos\cpu1\verilator-3.841\verilator.exe"
+T     16318  1578616089 "obj_dir/Vcpu1.cpp"
+T      3311  1578616089 "obj_dir/Vcpu1.h"
+T      1710  1578616089 "obj_dir/Vcpu1.mk"
+T       590  1578616089 "obj_dir/Vcpu1__Syms.cpp"
+T       990  1578616089 "obj_dir/Vcpu1__Syms.h"
+T       266  1578616089 "obj_dir/Vcpu1__ver.d"
+T         0  1578616089 "obj_dir/Vcpu1__verFiles.dat"
+T      1118  1578616089 "obj_dir/Vcpu1_classes.mk"
